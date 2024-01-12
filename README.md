@@ -1,4 +1,4 @@
-# Graph-matching-PPMGM
+# Graph matching by PPMGM
 Matlab code for the paper "Seeded graph matching for the correlated Gaussian Wigner model via the projected power method" by E.Araya, G.Braun and H.Tyagi. 
 
 Contains the folders: Graph matching algorithms, Helpers, Synthetic data and Real data. 
