@@ -3,8 +3,13 @@ Matlab code for the paper "Seeded graph matching for the correlated Gaussian Wig
 
 Contains the folders: Graph matching algorithms, Helpers, Synthetic data and Real data. 
 
-Synthetic data contains the code for reproducing Figs. 2,3,4,5 and 6. 
-Real data contains the code for reproducing Figs. 7 and 8. 
+Graph matching algorithms: code for the graph matching methods: grampa, umeyama, full_qp(convex relaxation to the Birkhoff polytope) and ppmgm.
+
+Helpers: auxiliary methods, e.g, contains GMWM greedy algorithm (Alg.1 in the paper).
+
+Synthetic data: code for reproducing Figs. 2,3,4,5 and 6. 
+
+Real data: code for reproducing Figs. 7 and 8. 
 
 
 
