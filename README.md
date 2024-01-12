@@ -11,6 +11,7 @@ Synthetic data: code for reproducing Figs. 2,3,4,5 and 6.
 
 Real data: code for reproducing Figs. 7 and 8. 
 
+![alt text](https://github.com/ErnestoArayaV/Graph-matching-PPMGM/ppmgm_rec.png?raw=true)
 
 
 
